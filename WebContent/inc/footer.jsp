@@ -243,10 +243,19 @@ function carousel() {
 						contentType : 'application/x-www-form-urlencoded',
 						data: userObject,
 						success : function(data, textStatus, jQxhr) {
-							console.log(data);
+						//	swal("Good job!", "We Will Get You Back Soon!", "success");
+							
+							swal({title: "Good job", text: "We Will Get You Back Soon!", type: 
+							"success"}).then(function(){ 
+							   location.reload();
+							   }
+							);
+							
+							
 						},
 						error : function(jqXhr, textStatus, errorThrown) {
 							console.log(errorThrown);
+							swal("Error!", "Sowthing Went Wrong Please Try Again Later!", "warning");
 						}
 					});
 			  }
