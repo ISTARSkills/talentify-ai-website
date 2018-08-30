@@ -120,7 +120,7 @@ function carousel() {
 </script>
 
   <script type="text/javascript">
-  
+  var isValidEmailId = true;
   $( document ).ready(function() {
 	    console.log( "ready!" );
 	    
@@ -141,10 +141,10 @@ function carousel() {
 				console.log(data);
 				if(data.data.message != 'This email is valid'){
 				
-					isValidEmailNumber = false;
+					isValidEmailId = false;
 					
 				}else{
-					isValidEmailNumber = true;
+					isValidEmailId = true;
 				}
 				
 				
@@ -155,7 +155,7 @@ function carousel() {
 			async:false
 		});
 	 
-		return isValidEmailNumber;
+		return isValidEmailId;
 	      
 
 	    }, 'User already exists with this email.');
