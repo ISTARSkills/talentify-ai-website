@@ -155,13 +155,15 @@
 			<h3>TURBO CHARGED SALES INSIGHTS FOR STELLAR SALES TEAMS!</h3>
 
 
-			<form role="form">
+			 <!-- 
+			<form role="form" id='emailForm' name="emailForm">
 				<div class="form-group">
-					<input type="email" class="form-control" placeholder="Your email address">
-				</div>
-
-				<button type="submit" class="btn-pill ">START YOUR FREE TRIAL</button>
+					<input id="email" type="email" name="email" required class="form-control" placeholder="Your email address">
+				</div> 
+				<button type="submit" class="btn-pill ">START YOUR FREE TRIAL</button>				
 			</form>
+			-->
+			<a href="sign-in.jsp" class="btn btn-danger custom-danger-btn">START YOUR FREE TRIAL</a>
 		</div>
 	</div>
 

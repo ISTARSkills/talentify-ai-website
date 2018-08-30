@@ -68,12 +68,15 @@
       $('#global-nav').addClass('navbar-fixed-bottom');
       $('#global-nav').addClass('navbar-light');
 
-
+     
+      
     } else if (scrollTop < 30) {
       $('#global-nav').addClass('bg-transparent');
         $('#global-nav').addClass('navbar-dark');
       $('#global-nav').removeClass('navbar-fixed-bottom');
        $('#global-nav').removeClass('navbar-light');
+       
+      
     } 
     
   }); 
@@ -96,8 +99,13 @@ function carousel() {
     }
     myIndex++;
     if (myIndex > x.length) {myIndex = 1}    
-    x[myIndex-1].style.display = "block";  
-    setTimeout(carousel, 2000); // Change image every 2 seconds
+    
+    if(x.length != 0){
+    	
+    	  x[myIndex-1].style.display = "block";  
+    	  setTimeout(carousel, 2000); // Change image every 2 seconds
+    }
+  
 }
 </script>
 
@@ -111,7 +119,142 @@ function carousel() {
   gtag('config', 'UA-124910681-1');
 </script>
 
+  <script type="text/javascript">
+  
+  $( document ).ready(function() {
+	    console.log( "ready!" );
+	    
+	   
+	    
+	    $( "#example1" ).change(function() {
+	    	
+	    	$('#date').val($(this).val());
+	    	
+	    	});
+	    
+	    $.validator.addMethod("emailExists", function (value, element) {
+	    $.ajax({
+			url : 'http://business.talentify.in/istar/rest/user/contact_user/validate/email/'+value,
+			type : 'GET',
+			contentType : 'application/x-www-form-urlencoded',
+			success : function(data, textStatus, jQxhr) {
+				console.log(data);
+				if(data.data.message != 'This email is valid'){
+				
+					isValidEmailNumber = false;
+					
+				}else{
+					isValidEmailNumber = true;
+				}
+				
+				
+			},
+			error : function(jqXhr, textStatus, errorThrown) {
+				console.log(errorThrown);
+			},
+			async:false
+		});
+	 
+		return isValidEmailNumber;
+	      
 
+	    }, 'User already exists with this email.');
+	    
+		  $("form[name='emailForm']").validate({
+		    rules: {		     
+		    	email: {
+					 required:true,	
+					 emailExists: true
+				}
+		    },
+		  
+		    submitHandler: function(form) {
+		 
+		    	initEmailSubmitData();
+		   
+		    }
+		  });
+	    
+		  function initEmailSubmitData() {
+			  
+			  var userObject ={};
+			  var contact_object = {
+					  email:$('#email').val()					 
+			  }		
+			  
+			  userObject["contact_object"]=JSON.stringify(contact_object);
+			  sendData(userObject);		
+			  
+		  }
+		  
+		  $("form[name='userForm']").validate({
+			  ignore: "",
+			    rules: {		     
+			    	name: "required",
+			    	email: {
+						 required:true,	
+						 emailExists: true
+					},
+			    	mobile:{
+						  required:true,
+						  minlength:10,
+						  maxlength:10,
+						  number: true,
+						  },
+			    	message:"required",
+			    	date:"required"
+			    },
+			    messages: {
+			    	name: "Please Enter User Name",
+			    	mobile: "Please Enter Valid Number",
+			    	message:"Please Write a Message",
+			    	date:"Please Select Preferred Date and Time"
+			    },
+			  
+			    submitHandler: function(form) {
+			 
+			     initSubmitData();
+			   
+			    }
+			  });
+		    
+			  function initSubmitData() {
+				  
+				  var userObject ={};				  
+				  var contact_object = {
+						  name:$('#name').val(),
+						  email:$('#email').val(),
+						  mobile:$('#mobile').val(),
+						  scheduled_date:$('#date').val(),
+						  message:$('#message').val()
+				  }	
+				  
+				  userObject["contact_object"]=JSON.stringify(contact_object);
+				  sendData(userObject);			  
+				  
+			  }
+			  
+			  
+			  function sendData(userObject){
+				  
+					$.ajax({
+						url : 'http://192.168.1.56:8080/istar/rest/user/contact_user',
+						type : 'POST',
+						contentType : 'application/x-www-form-urlencoded',
+						data: userObject,
+						success : function(data, textStatus, jQxhr) {
+							console.log(data);
+						},
+						error : function(jqXhr, textStatus, errorThrown) {
+							console.log(errorThrown);
+						}
+					});
+			  }
+	    
+	});
+  
+  
+  </script>
    
   
  </body>

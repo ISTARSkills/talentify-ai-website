@@ -20,21 +20,16 @@
 
   <div class="agency-contact-form" style="margin-bottom: 80px;">
     <div class="container">
-      <form>
-        <input type="text" placeholder="Your name" />
-        <input type="email" placeholder="Email address" />
+      <form id='userForm' name="userForm">
+        <input id="name" type="text" placeholder="Your name" name="name" required />
+        <input id="email" type="email" placeholder="Email address" name="email" required  />
       
-        <input type="tel" pattern="[789][0-9]{9}" placeholder="Phone number"/>
+        <input id="mobile" type="number"  placeholder="Phone number" name="mobile" required />
        
-      <input    class="form-control" type="text" placeholder="Preferred Date and Time"  id="example1"  >
-      
-
-       
-       
-       
-            
-               
-               <textarea placeholder="Message" rows="6"></textarea>
+           <input   class="form-control" type="text" placeholder="Preferred Date and Time"  id="example1"  >
+            <input id="date" name="date" class="form-control" type="hidden"  >
+                    
+      <textarea id="message" name="message" placeholder="Message" rows="6"></textarea>
         <input type="submit" class="btn-pill btn-pill-primary btn-pill-lg" value="CONTACT SALES" />
       </form>
     </div>
