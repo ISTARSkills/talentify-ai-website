@@ -238,7 +238,7 @@ function carousel() {
 			  function sendData(userObject){
 				  
 					$.ajax({
-						url : 'http://192.168.1.56:8080/istar/rest/user/contact_user',
+						url : 'http://business.talentify.in/istar/rest/user/contact_user',
 						type : 'POST',
 						contentType : 'application/x-www-form-urlencoded',
 						data: userObject,
