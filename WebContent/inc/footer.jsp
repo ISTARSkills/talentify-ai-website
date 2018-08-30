@@ -6,7 +6,7 @@
       TOP
     </a>
     <div class="container">
-      <div class="row">
+      <div class="row m-0">
         <div class="col-md-3">
           <h4>Talentify</h4>
           <a href="about_us.jsp" class="legal">About</a>
@@ -99,12 +99,20 @@ function carousel() {
     x[myIndex-1].style.display = "block";  
     setTimeout(carousel, 2000); // Change image every 2 seconds
 }
+</script>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124910681-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-
+  gtag('config', 'UA-124910681-1');
+</script>
 
 
    
-  </script>
+  
  </body>
 </html>

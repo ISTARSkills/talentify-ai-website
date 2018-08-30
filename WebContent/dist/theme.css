@@ -3043,7 +3043,7 @@ pre code {
   display: block;
     
     padding-bottom: 10px;
-    width: 600px;
+    width: auto;
     background: none;
     border: none;
     border-bottom: 2px solid #777;
@@ -25227,11 +25227,11 @@ label[id='dialer1']::after {content: "*"; color:red;}
   display: block;
     margin: 30px auto 10px auto;
     padding-bottom: 10px;
-    width: 600px;
+    width: auto;
     background: none;
     border: none;
     border-bottom: 2px solid #777;
-    font-size: 2.6em;
+    font-size: 1.6em;
     font-weight: 400;
     text-align: center;
     color: #999;

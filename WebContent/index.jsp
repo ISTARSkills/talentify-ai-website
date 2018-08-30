@@ -43,7 +43,7 @@
 	<div class="index-intro-header">
 
 		<section class="container">
-			<div class="row text-center">
+			<div class="row m-0">
 				<div class="col-12 ">
 					<img src="images/logo.png" style="width: 76px; height: 76px; align-self: center">
 					<h1 id="heading1">TALENTIFY</h1>
@@ -62,19 +62,19 @@
 
 
 	<div style="background-image: url('images/bgs/bg_final.png'); background-size: cover; margin-top: 50px;" class="index-devices" data-scroll>
-		<section class="clearfix" style="margin-left: 100px;">
+		<section class="clearfix">
 			<div class="ws-m">&nbsp;</div>
-			<div class="row vertical-align home__features_row">
+			<div class="row vertical-align home__features_row m-0">
 
 				<div class="col-md-offset-1 col-md-4 col-xs-12 mb-sm-40">
-					<h4 data-animate="wow fadeInUp" data-animate-delay="0.5">SEE HOW YOUR SALES CALLS ARE GOING</h4>
+					<h4 data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0" >SEE HOW YOUR SALES CALLS ARE GOING</h4>
 					<p style="font-weight: 600" data-animate="wow fadeInUp" data-animate-delay="0.5">
 						Talentify call analytics help you see what your salesforce is talking about and gives you insight into what sets apart your top performers from the rest <br>
 						<br> See if your core sales messages are getting communicated to customers and how your sales reps handle critical customer microinteractions during a call
 					</p>
 				</div>
 				<div class=" col-md-8 col-xs-12 col-md-push-1 no-gap ">
-					<img class="img-responsive" style="width: 100%; margin-left: 30px;" src="images/devices/index1.png" data-animate="wow fadeInRight" data-animate-delay="1.5" />
+					<img class="img-responsive" style="width: 100%;" src="images/devices/index1.png" data-animate="wow fadeInRight" data-animate-delay="1.5" />
 				</div>
 			</div>
 			<div class="ws-m">&nbsp;&nbsp;</div>
@@ -87,12 +87,12 @@
 	<div style="background-image: url('images/bgs/bg2.png'); background-size: cover" class="index-devices" data-scroll>
 		<section class="clearfix" style="margin-left: 0px">
 			<div class="ws-s">&nbsp;</div>
-			<div class="row vertical-align home__features_row">
+			<div class="row vertical-align home__features_row m-0">
 				<div class="col-md-8 no-gap col-md-pull-6 ">
 					<img class="img-responsive" style="width: 100%" src="images/devices/index3.png" data-animate="wow fadeInLeft" data-animate-delay="0.5" />
 				</div>
 				<div class="col-md-offset-1 col-md-4 col-xs-12 col-md-push-6 mb-sm-50 wow fadeIn">
-					<h4 style="color: #000" data-animate="wow fadeInUp" data-animate-delay="0.5">Keep a Hawk-Eye <br/>on your <br/>Sales Meetings</h4>
+					<h4 style="color: #000" data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0">Keep a Hawk-Eye <br/>on your <br/>Sales Meetings</h4>
 					<p style="color: #111" data-animate="wow fadeInUp" data-animate-delay="0.5">
 						See how your reps are doing in webinars and face to face meetings. <br>
 						<br> See which collaterals and messages are getting facetime with your customer and how they are responding to them!
@@ -108,10 +108,10 @@
 
 	<div class="index-devices" data-scroll style="margin-top: 0px;">
 		<section class="clearfix" style="margin-left: 100px;">
-			<div class="row">
+			<div class="row m-0">
 
 				<div class=" col-md-offset-1 col-md-3 col-xs-12 wow fadeIn " style="margin-top: 50px;">
-					<h4 style="color: #000; width: 500px" data-animate="wow fadeInUp" data-animate-delay="0.5">Coach your sales team better with custom content</h4>
+					<h4 style="color: #000; width: 500px" data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0">Coach your sales team better with custom content</h4>
 					<p style="color: #111" data-animate="wow fadeInUp" data-animate-delay="0.5">
 						Train your salesforce on-the-go with interactive micro-learning that is customized to their learning needs <br>
 						<br> Interactive Assessments let your salesforce practice their pitch on mock calls and presentations <br>
