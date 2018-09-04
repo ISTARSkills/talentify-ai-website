@@ -44,7 +44,7 @@
 
 		<section class="container">
 			<div class="row m-0">
-				<div class="col-12 ">
+				<div class="col-12 text-center">
 					<img src="images/logo.png" style="width: 76px; height: 76px; align-self: center">
 					<h1 id="heading1">TALENTIFY</h1>
 					<h2 id="heading2">THE "SALES CONVERSION OPTIMIZATION" PLATFORM</h2>
