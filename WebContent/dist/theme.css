@@ -10957,10 +10957,10 @@ position: relative;
 .btn-shadow.btn-shadow-primary {
   background: #eb384f;
 }
-#gold1{
+.gold1{
 
   transform: translateY(-10px);
-    box-shadow: 0 22px 43px rgba(0,0,0,0.15);
+    box-shadow: 0 22px 43px rgba(0,0,0,0.15) !important;
 }
 .btn-shadow.btn-shadow-dark {
   background: #2C394D;
@@ -26844,7 +26844,7 @@ font-family: "Montserrat","Helvetica Neue",Helvetica,sans-serif;
 }
 @media (max-width: 991px) {
   .index-devices > section {
-    padding: 0 30px;
+    padding: 0 10px;
     width: auto;
   }
 }
@@ -26852,6 +26852,7 @@ font-family: "Montserrat","Helvetica Neue",Helvetica,sans-serif;
   .index-devices > section {
     min-height: auto;
     margin-left:0px !important;
+    margin-right:0px !important;
   }
 }
 .index-devices .devices {
@@ -26917,8 +26918,6 @@ font-family: "Montserrat","Helvetica Neue",Helvetica,sans-serif;
     width: auto !important;
     text-align:center;
     font-size:2em;
-    margin-left:60px;
-    padding-left: 10px;
   }
 }
 .index-devices .icons i {
@@ -26974,7 +26973,7 @@ font-family: "Montserrat","Helvetica Neue",Helvetica,sans-serif;
 @media (max-width: 767px) {
   .row {
     text-align: center;
-    margin-left:-100px;
+    margin-left:0;
      
     
   }
@@ -28432,6 +28431,11 @@ height:100%;
   .index-features-header section {
     padding-top: 140px;
   }
+  .index-features-header section >div> h1{
+  	font-size: 1.4em !important;
+  	margin-left: 0 !important;
+  text-align: center !important;
+  }
 }
 .index-features-header section >div> h1 {
   color: #ececec;
@@ -28446,6 +28450,11 @@ height:100%;
   .index-features-header section > h1 {
     font-size: 27px;
     line-height: 40px;
+  }
+  .index-features-header section > div > p {
+  	font-size: 1.4em !important;
+  	margin-left: 0 !important;
+  	text-align: center !important;
   }
 }
 .index-features-header section > div > p {
@@ -29873,11 +29882,21 @@ height:100%;
 
 @media (max-width: 767px) {
   .index-app-hero p {
-    margin-left: -20px;
+    margin-left: 0;
     font-size: 0.8em;
     line-height: 35px;
     text-align: center;
     width:auto;
+  }
+  
+  .index-app-hero .container{
+     width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 0;
+  }
+  .index-app-hero h2{
+      margin-left: 0;
   }
 }
 .index-app-hero .btn-pill {
@@ -31323,7 +31342,7 @@ height:100%;
 @media (max-width: 767px) {
   .pricing-charts .chart {
     display: block;
-    width: 290px;
+    width: 90%;
     margin: 0 auto 30px;
   }
 }
@@ -38052,4 +38071,58 @@ font-size: 1.07em;
     -o-transition: all 0.2s linear;
     transition: all 0.2s linear;
 
+}
+
+@media (max-width: 767px) {
+.custom-danger-btn{
+
+    margin-top: 20px;
+    margin: 30px auto 10px auto;
+    font-family: "Montserrat","Open Sans","Helvetica Neue",Helvetica,sans-serif;
+    display: block;
+    width: 80%;
+    padding: 14px 12px;
+    font-weight: 300;
+    border: 0;
+    font-size: 1.1em;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.08);
+    background-color: #eb384f;
+    outline: none;
+    cursor: pointer;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+
+}
+.custom-faq-button{
+    width: 70% !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+.about-us-header{
+font-size: 1.4em !important;
+}
+}
+
+.custom-faq-button{
+    margin: 0px auto 20px auto;
+    font-family: "Montserrat","Open Sans","Helvetica Neue",Helvetica,sans-serif;
+    display: block;
+    width: 50%;
+    padding: 14px 12px;
+    font-weight: 300;
+    border: 0;
+    font-size: 1.1em;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.08);
+    background-color: #eb384f;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
 }
