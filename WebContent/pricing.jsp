@@ -170,7 +170,7 @@
 							</h5>
 						</div>
 						<div id="collapseFive" class="collapse">
-							<div id="faq2" class="card-body">ou can generally change your package at any time, and the revised costs will reflect from the next billing period. However, if you have a customized contract that applies to your subscription, those contractual terms will apply.</div>
+							<div id="faq2" class="card-body">You can generally change your package at any time, and the revised costs will reflect from the next billing period. However, if you have a customized contract that applies to your subscription, those contractual terms will apply.</div>
 						</div>
 					</div>
 				</div>

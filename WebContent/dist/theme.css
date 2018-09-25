@@ -28451,8 +28451,15 @@ height:100%;
     font-size: 27px;
     line-height: 40px;
   }
+  .index-features-header section >div> h1 {
+    font-size: 1.4em !important;
+    margin-left: 0 !important;
+    text-align: center !important;
+    line-height: 32px !important;
+  	font-weight: 700 !important;
+}
   .index-features-header section > div > p {
-  	font-size: 1.4em !important;
+  	font-size: 0.8em !important;
   	margin-left: 0 !important;
   	text-align: center !important;
   }
@@ -36834,28 +36841,28 @@ height:100%;
   }
 }
 .agency-about-hero p {
-  color: #fff;
-  text-align: left;
- font-size: 1.2em;
-    font-weight: 800;
-
-    top:250px;
- 
-  font-family: "Montserrat","Open Sans","Helvetica Neue",Helvetica,sans-serif;
-    
-    text-transform: uppercase;
-  width: 100%;
-  margin: 0 auto;
-  -webkit-animation-delay: 0.3s;
-  -moz-animation-delay: 0.3s;
-  -o-animation-delay: 0.3s;
-  -ms-animation-delay: 0.3s;
-  animation-delay: 0.3s;
+	color: #fff;
+	text-align: left;
+	font-size: 1.2em;
+	font-weight: 800;
+	top: 250px;
+	font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica,
+		sans-serif;
+	text-transform: uppercase;
+	width: 100%;
+	margin: 0 auto;
+	-webkit-animation-delay: 0.3s;
+	-moz-animation-delay: 0.3s;
+	-o-animation-delay: 0.3s;
+	-ms-animation-delay: 0.3s;
+	animation-delay: 0.3s;
 }
+
 @media (max-width: 767px) {
   .agency-about-hero p {
-    font-size: 21px;
-    width: 80%;
+    font-size: 0.8em !important;
+    margin-left: 0 !important;
+    text-align: center !important;
   }
 }
 
@@ -37254,7 +37261,7 @@ font-size: 1.07em;
   }
 }
 .agency-contact-form form input[type="text"],.agency-contact-form form input[type="tel"],
-.agency-contact-form form input[type="email"],
+.agency-contact-form form input[type="email"],.agency-contact-form form input[type="number"],
 .agency-contact-form form textarea {
   font-size: 18px;
   margin-top: 20px;
@@ -37273,27 +37280,32 @@ font-size: 1.07em;
 }
 .agency-contact-form form input[type="text"]::-webkit-input-placeholder,
 .agency-contact-form form input[type="email"]::-webkit-input-placeholder,
+.agency-contact-form form input[type="number"]::-webkit-input-placeholder,
 .agency-contact-form form textarea::-webkit-input-placeholder {
   color: #B8BBC7;
 }
 .agency-contact-form form input[type="text"]:-moz-placeholder,
 .agency-contact-form form input[type="email"]:-moz-placeholder,
+.agency-contact-form form input[type="number"]:-moz-placeholder,
 .agency-contact-form form textarea:-moz-placeholder {
   color: #B8BBC7;
 }
 .agency-contact-form form input[type="text"]::-moz-placeholder,
 .agency-contact-form form input[type="email"]::-moz-placeholder,
+.agency-contact-form form input[type="number"]::-moz-placeholder,
 .agency-contact-form form textarea::-moz-placeholder {
   color: #B8BBC7;
 }
 .agency-contact-form form input[type="text"]:-ms-input-placeholder,
 .agency-contact-form form input[type="email"]:-ms-input-placeholder,
+.agency-contact-form form input[type="number"]:-ms-input-placeholder,
 .agency-contact-form form textarea:-ms-input-placeholder {
   color: #B8BBC7;
 }
 @media (max-width: 767px) {
   .agency-contact-form form input[type="text"],
   .agency-contact-form form input[type="email"],
+  .agency-contact-form form input[type="number"],
   .agency-contact-form form textarea {
     padding: 15px 20px;
     font-size: 16px;
@@ -37324,34 +37336,30 @@ font-size: 1.07em;
 .agency-contact-form form textarea:focus:-ms-input-placeholder {
   color: #666;
 }
-.agency-contact-form form input[type="submit"] {
-  font-family: "Montserrat","Open Sans","Helvetica Neue",Helvetica,sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2.5px;
-    font-size: 0.9em;
-    line-height: 1.8em;
-    
-    transition: all 0.5s;
-  background: #eb384f;
-  
-  width: 50%;
-  padding: 10px 10px;
-  text-align: center;
-  
-  align-items: center;
-  cursor: pointer;
-  margin-top: 23px;
-  font-weight: 800;
- margin-left: 130px;
-   
-  color: #fff;
-  
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  -ms-transition: all 0.2s;
-  -o-transition: all 0.2s;
-  transition: all 0.2s;
+.agency-contact-form form input[type="submit"]  {
+	font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica,
+		sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2.5px;
+	font-size: 0.9em;
+	line-height: 1.8em;
+	transition: all 0.5s;
+	background: #eb384f;
+	width: 50%;
+	padding: 10px 10px;
+	text-align: center;
+	align-items: center;
+	cursor: pointer;
+	margin-top: 23px;
+	font-weight: 800;
+	color: #fff;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
 }
+
 .agency-contact-form form input[type="submit"]:hover {
   color: #fff;
 }
@@ -37923,20 +37931,24 @@ font-size: 1.07em;
 }
 .agency-start-project-form form input[type="text"]::-webkit-input-placeholder,
 .agency-start-project-form form input[type="email"]::-webkit-input-placeholder,
+.agency-start-project-form form input[type="number"]::-webkit-input-placeholder,
 .agency-start-project-form form textarea::-webkit-input-placeholder {
   color: #B8BBC7;
 }
 .agency-start-project-form form input[type="text"]:-moz-placeholder,
 .agency-start-project-form form input[type="email"]:-moz-placeholder,
+.agency-start-project-form form input[type="number"]:-moz-placeholder,
 .agency-start-project-form form textarea:-moz-placeholder {
   color: #B8BBC7;
 }
 .agency-start-project-form form input[type="text"]::-moz-placeholder,
 .agency-start-project-form form input[type="email"]::-moz-placeholder,
+.agency-start-project-form form input[type="number"]::-moz-placeholder,
 .agency-start-project-form form textarea::-moz-placeholder {
   color: #B8BBC7;
 }
 .agency-start-project-form form input[type="text"]:-ms-input-placeholder,
+.agency-start-project-form form input[type="email"]:-ms-input-placeholder,
 .agency-start-project-form form input[type="email"]:-ms-input-placeholder,
 .agency-start-project-form form textarea:-ms-input-placeholder {
   color: #B8BBC7;
@@ -38102,7 +38114,11 @@ font-size: 1.07em;
     padding-right: 10px !important;
 }
 .about-us-header{
-font-size: 1.4em !important;
+	font-size: 1.4em !important;
+    margin-left: 0 !important;
+    text-align: center !important;
+    line-height: 32px !important;
+    font-weight: 700 !important;
 }
 }
 

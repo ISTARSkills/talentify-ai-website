@@ -27,7 +27,7 @@
 	</div>
 
 	<div class="agency-about-intro">
-		<div class="container">
+		<div class="container px-3">
 			<p>We're a group of technologists and training professionals who've come together to bring the best of AI to performance! We're passionate about helping people excel at the workplace and putting a ding in the universe!</p>
 		</div>
 	</div>
