@@ -40,7 +40,7 @@
 				<div class="feature">Conversational Task Analytics</div>
 				<div class="feature">Conversational Lead Scoring</div>
 				<div class="feature">
-					In-built Dialer & VC Integrations <sup><i class="fa fa-asterisk" style="font-size: 10px; color: #eb384f; float: none;"></i></sup>
+					In-built Dialer & VC Integrations
 				</div>
 				<div class="feature">Team Chat & Bot Assist</div>
 
@@ -204,7 +204,7 @@
 				<button type="submit" class="btn-pill ">START YOUR FREE TRIAL</button>				
 			</form>
 			-->
-			<a href="sign-in.jsp" class="btn btn-danger custom-danger-btn">START YOUR FREE TRIAL</a>
+			<a href="sign-in.jsp" class="btn btn-danger custom-danger-btn">GET STARTED NOW!</a>
 		</div>
 	</div>
 
