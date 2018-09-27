@@ -146,7 +146,7 @@
 				<button type="submit" class="btn-pill ">START YOUR FREE TRIAL</button>				
 			</form>
 			-->
-			<a href="sign-in.jsp" class="btn btn-danger custom-danger-btn">START YOUR FREE TRIAL</a>
+			<a href="sign-in.jsp" class="btn btn-danger custom-danger-btn">GET STARTED NOW!</a>
 		</div>
 	</div>
 
