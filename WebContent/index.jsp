@@ -121,7 +121,7 @@
 				</div>
 				<div class=" col-md-5 col-xs-12  " data-animate="wow fadeInRight" data-animate-delay="0.5" style="margin-left: 350px;">
 					<div class="w3-content w3-section" style="margin-top: 0px;">
-						<img class="mySlides" src="images/devices/Mobile/m18.png" style="width: 65%; height: auto"> <img class="mySlides" src="images/devices/Mobile/m15.png" style="width: 65%; height: auto"> <img class="mySlides" src="images/devices/Mobile/m17.png" style="width: 65%; height: auto">
+						<img class="mySlides" src="images/devices/Mobile/m18.png" style="width: 40%; height: auto"> <img class="mySlides" src="images/devices/Mobile/m15.png" style="width: 40%; height: auto"> <img class="mySlides" src="images/devices/Mobile/m17.png" style="width: 40%; height: auto">
 
 					</div>
 

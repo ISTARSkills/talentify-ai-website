@@ -47,9 +47,9 @@
 				</div>
 				<div class=" col-md-5 col-xs-12  " data-animate="wow fadeInRight" data-animate-delay="1" style="margin-left: 0px;">
 					<div class="w3-content w3-section" style="margin-top: 0px;">
-						<img class="mySlides mx-auto" src="images/devices/Mobile/m5.png" style="width: 65%; height: auto"> 
-						<img class="mySlides mx-auto" src="images/devices/Mobile/m14.png" style="width: 65%; height: auto"> 
-						<img class="mySlides mx-auto" src="images/devices/Mobile/m17.png" style="width: 65%; height: auto">
+						<img class="mySlides mx-auto" src="images/devices/Mobile/m5.png" style="width: 40%; height: auto"> 
+						<img class="mySlides mx-auto" src="images/devices/Mobile/m14.png" style="width: 40%; height: auto"> 
+						<img class="mySlides mx-auto" src="images/devices/Mobile/m17.png" style="width: 40%; height: auto">
 					</div>
 				</div>
 			</div>

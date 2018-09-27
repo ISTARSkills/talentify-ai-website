@@ -60,7 +60,7 @@
 			<div class="row mx-0" style="margin-top: 50px">
 				<div style="margin-top: 0px; padding-top: 0px;" class=" col-md-5 col-xs-12  " data-animate="wow fadeInLeft" data-animate-delay="0.8">
 					<div class="w3-content w3-section" style="margin-top: 0px; padding-top: 0px;">
-						<img class="mySlides mx-auto" src="images/devices/Mobile/m8.png" style="width: 90%; height: auto"> <img class="mySlides mx-auto" src="images/devices/Mobile/m17.png" style="width: 90%; height: auto"> <img class="mySlides mx-auto" src="images/devices/Mobile/m18.png" style="width: 90%; height: auto">
+						<img class="mySlides mx-auto" src="images/devices/Mobile/m8.png" style="width: 40%; height: auto"> <img class="mySlides mx-auto" src="images/devices/Mobile/m17.png" style="width: 40%; height: auto"> <img class="mySlides mx-auto" src="images/devices/Mobile/m18.png" style="width: 40%; height: auto">
 					</div>
 				</div>
 				<div style="margin-top: 40px;" class="col-md-offset-1 col-md-5 col-xs-12 ">
