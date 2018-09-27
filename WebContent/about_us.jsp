@@ -46,14 +46,14 @@
 						 <img src="http://istarindia.com/images/team/sreeram.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">Sreeraman</div>
-					<div class="designation">(Managing Director)</div>
+					<div class="designation">(MD)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="http://istarindia.com/images/team/Surga.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">SURGA</div>
-					<div class="designation">(Chief Everything Officer)</div>
+					<div class="designation">(CEO)</div>
 				</div>
 
 				<div class="col-md-4">
@@ -62,14 +62,14 @@
 						 <img src="http://istarindia.com/images/team/Vaibhav.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">Vaibhav</div>
-					<div class="designation">(Wild Ducks)</div>
+					<div class="designation">(Vice President- Technology)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/Paul.jpg" style="width: 100%" />
 					</div>
 					<div class="name">Paul</div>
-					<div class="designation">(Chief Delight Officer)</div>
+					<div class="designation">(Head Of HR)</div>
 
 				</div>
 				<div class="col-md-4">
@@ -77,14 +77,14 @@
 						 <img src="images/person/heena.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">Heena</div>
-					<div class="designation">(Chief Disruptor)</div>
+					<div class="designation">(Program Manager)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/Sharath.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Sharath</div>
-					<div class="designation">(Ambassador of Buzz)</div>
+					<div class="designation">(PreSales Head)</div>
 
 				</div>
 				<div class="col-md-4">
@@ -92,70 +92,70 @@
 						 <img src="images/person/feroz.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">Feroz</div>
-					<div class="designation">(Jolly Good Fellow)</div>
+					<div class="designation">(Sr Software Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/abhinav.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Abhinav</div>
-					<div class="designation">(Software Ninjaneer)</div>
+					<div class="designation">(Sr Software Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/Vinay.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Vinay</div>
-					<div class="designation">(Bollocks)</div>
+					<div class="designation">(Software Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/Himanshu.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Himanshu</div>
-					<div class="designation">(Code Magician)</div>
+					<div class="designation">(Software Engineer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/anurag.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Anurag</div>
-					<div class="designation">(Code Monkey)</div>
+					<div class="designation">(Software Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/sumanth.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Sumanth</div>
-					<div class="designation">(Software Neurosurgeon)</div>
+					<div class="designation">(Software Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/abhishek.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Abhishek</div>
-					<div class="designation">(Sous Chef)</div>
+					<div class="designation">(Content Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/ravi.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Ravi</div>
-					<div class="designation">(Engineering Ninja)</div>
+					<div class="designation">(Software Quality Engineer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/partha.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Parthasarathy</div>
-					<div class="designation">(Digital Overlord)</div>
+					<div class="designation">(Content Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
 						 <img src="images/person/praveen.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">praveen</div>
-					<div class="designation">(Wizard of light bulb moments)</div>
+					<div class="designation">(Content Developer)</div>
 				</div>
 
 
@@ -164,7 +164,7 @@
 						 <img src="images/person/karthik.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Karthik</div>
-					<div class="designation">(Genius)</div>
+					<div class="designation">(Technology & Operations Engineer)</div>
 				</div>
 
 				<div class="col-md-4">
