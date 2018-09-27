@@ -35,14 +35,16 @@
 
 
 			<section class="features">
-				<div class="feature">Simple CRM</div>
+				
 				<div class="feature">LiveAction Tracking of calls, presentations and emails</div>
 				<div class="feature">Conversational Task Analytics</div>
 				<div class="feature">Conversational Lead Scoring</div>
+				<div class="feature">Team Chat & Bot Assist</div>
 				<div class="feature">
 					In-built Dialer & VC Integrations
 				</div>
-				<div class="feature">Team Chat & Bot Assist</div>
+				<div class="feature">Simple CRM</div>
+				
 
 			</section>
 			<div class="action mt-auto">

@@ -19,7 +19,7 @@
           <a href="features.jsp" class="legal">Features</a>
           <a href="features.jsp" class="legal">App & Integrations</a>
          
-          <a href="features.jsp" class="legal">API</a>
+        
 
         </div>
         <div class="col-md-3">
