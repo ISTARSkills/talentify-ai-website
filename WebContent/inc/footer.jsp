@@ -33,7 +33,7 @@
           <p>
             MAKAM PLAZA 63/1, 18TH CROSS, MALLESHWARAM, BANGALORE, KARNATAKA 560055
             <br>
-            +91-80 4128 1021
+            (833)815-2444
             <br>
             contact@istarindia.com
           </p>
