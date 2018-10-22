@@ -31,11 +31,11 @@
         <div class="col-md-3">
           <h4>Contact Us</h4>
           <p>
-            MAKAM PLAZA 63/1, 18TH CROSS, MALLESHWARAM, BANGALORE, KARNATAKA 560055
+            Talentify 550 West B Street, 4th Floor #103, San Diego, CA 92101
             <br>
             +1(833)815-2444
             <br>
-            contact@istarindia.com
+            info@talentify.ai
           </p>
           
         </div>
