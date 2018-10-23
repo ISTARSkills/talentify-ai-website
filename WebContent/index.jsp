@@ -7,8 +7,14 @@
 <!--[if lt IE 8]>
     <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
-
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+<meta name="description" content="Talentify helps you get play-by-play visibility to your sales reps performance on calls, webinars and presentations so you can improve their customer engagement and close more deals.">
 <jsp:include page="inc/head.jsp"></jsp:include>
+</head>
+
 <jsp:include page="inc/nav_bar.jsp"></jsp:include>
 <body>
 <div class="region region-content"></div>
