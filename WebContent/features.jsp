@@ -1,4 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+<meta name="description" content=" Talentify digitally analyzes all your calls, webinars, presentations and emails to give you complete visibility to the quality of the rep-customer interactions and the likelihood of success of leads across your pipeline.
+">
 <jsp:include page="inc/head.jsp"></jsp:include>
+</head>
+
 <jsp:include page="inc/nav_bar.jsp"></jsp:include>
 <body>
 
