@@ -1,4 +1,11 @@
-<jsp:include page="inc/head.jsp" ></jsp:include>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+<meta name="description" content=" ">
+<jsp:include page="inc/head.jsp"></jsp:include>
+</head>
+
    <div class="terms-nav">
    <jsp:include page="inc/nav_bar.jsp" ></jsp:include>
    </div>
