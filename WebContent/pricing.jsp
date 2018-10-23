@@ -1,4 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+<meta name="description" content="Talentify for every size of business. Learn more about our plans here.">
 <jsp:include page="inc/head.jsp"></jsp:include>
+</head>
+
 <jsp:include page="inc/nav_bar.jsp"></jsp:include>
 <body>
 	<div id="pricing1" class="index-features-header">
