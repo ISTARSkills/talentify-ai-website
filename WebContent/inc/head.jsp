@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Talentify- Home</title>
-<meta name="description" content="">
+<meta name="description" content="Talentify helps you get play-by-play visibility to your sales reps performance on calls, webinars and presentations so you can improve their customer engagement and close more deals.">
 <meta name="keywords" content="CRM, LMS,Customer Service, Sales Automation, Sales enablement, SaaS, Saas Sales, Inside Sales, Training, Learning, Coaching, Sales Reps, Performance, Salesforce, Zoho,Microsoft Dynamics, HubSpot, PipeDrive,Oracle, PeopleSoft, OrangeHR,KISSFLOW, Zapier" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
