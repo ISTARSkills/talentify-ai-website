@@ -25,7 +25,7 @@
 
 				<div class="hero-text px-2">
 
-					<h1 style="color: #fff; font-size: 3em; font-weight: 700;" class="about-us-header customFadeInUp">WE'RE PASSIONATE ABOUT HELPING PEOPLE BECOME THE VERY BEST THEY CAN BE!</h1>
+					<h1 style="color: #fff; font-size: 3em; font-weight: 700;" class="about-us-header customFadeInUp">WE'RE PASSIONATE ABOUT HELPING SALES TEAMS BECOME THE VERY BEST THEY CAN BE!</h1>
 					<p style="margin-top: 20px" class="customFadeInUp">TALENTIFY - SELL :: BETTER</p>
 				</div>
 
