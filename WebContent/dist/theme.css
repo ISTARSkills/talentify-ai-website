@@ -26827,7 +26827,7 @@ font-family: "Montserrat","Helvetica Neue",Helvetica,sans-serif;
 .index-devices {
   padding-top: 50px;
   padding-bottom: 50px;
-  margin-top: 50px;
+  
   overflow: hidden !important;
 }
 @media (max-width: 767px) {
@@ -26883,18 +26883,16 @@ font-family: "Montserrat","Helvetica Neue",Helvetica,sans-serif;
   0px;
   margin-bottom: 25px;
 }
-.index-devices p {
-
-  font-family: "Montserrat","Helvetica Neue",Helvetica,sans-serif;
-    font-size: 14px;
-    font-weight: 400;
-    letter-spacing: 0.2px;
-    line-height: 1.8em;
-  width: 400px;
-  margin-bottom: 25px;
-
-  color: #fff;
-  line-height: 24px;
+.index-devices p   {
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 0.2px;
+	line-height: 1.8em;
+	width: 500px;
+	margin-bottom: 25px;
+	color: #fff;
+	line-height: 24px;
 }
 
 

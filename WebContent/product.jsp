@@ -95,8 +95,7 @@
 							style="width: 40%; height: auto">
 					</div>
 				</div>
-				<div style="margin-top: 40px;"
-					class="col-md-6 col-xs-12 ">
+				<div class="col-md-6 col-xs-12 ">
 					<ul style="list-style-type: none; padding-left: 0;">
 						<li>
 							<h4 id="productlist">INTERACTIVE MICROLEARNING</h4>
@@ -132,7 +131,7 @@
 	</div>
 
 	<div class="index-devices" data-scroll
-		style=" padding-left: 0px; margin-top: 0px;">
+		style="padding-left: 0px; margin-top: 0px;">
 
 
 		<section class="clearfix">
@@ -143,10 +142,10 @@
 				<div class="col-md-12 col-xs-12 mb-sm-40"
 					style="text-align: center;">
 					<h4 style="color: #000">POWERFUL ANALYTICS</h4>
-					<h5 id="list3" style="color: #000; margin-left: 0;">See what
-						your reps and customers are saying in the field! Our powerful
-						signal analysis suite allows you to zoom in on the conversations
-						that count to get a pulse of the sales zeitgeist!</h5>
+					<h5 id="list3" style="color: #000;">See what your reps and
+						customers are saying in the field! Our powerful signal analysis
+						suite allows you to zoom in on the conversations that count to get
+						a pulse of the sales zeitgeist!</h5>
 				</div>
 			</div>
 
@@ -259,9 +258,8 @@
 						<div class="card-header">
 							<h5 class="mb-0">
 								<a id="faq1" class="collapsed" data-toggle="collapse"
-									data-parent="#accordion" href="#collapseOne"> What'€™s
-									Conversational Analytics?<br>
-								<br>
+									data-parent="#accordion" href="#collapseOne"> What's
+									Conversational Analytics?<br> <br>
 								</a>
 							</h5>
 						</div>
@@ -270,8 +268,8 @@
 							<div id="faq2" class="card-body">Conversational Analytics
 								refers to the use of Artificial Intelligence and Machine
 								Learning techniques to analyse human speech and decipher not
-								just the text of what'™s said, but also its meaning. At its
-								best, CA can tell you when things you care about happen in a
+								just the text of what's said, but also its meaning. At its best,
+								CA can tell you when things you care about happen in a
 								conversation, even when it is expressed differently by different
 								customers.</div>
 						</div>
@@ -287,12 +285,12 @@
 							</h5>
 						</div>
 						<div id="collapseTwo" class="collapse">
-							<div id="faq2" class="card-body">While it'€™s true that all
+							<div id="faq2" class="card-body">While it's true that all
 								AI systems need a lot of data to be useful, you can get up and
 								running even without a large data set. As your sales process
 								throws off more and more data, the detection and prediction
 								quality improves steadily (from about 70% accuracy towards 90%
-								accuracy). However, even from the very outset, you'€™ll achieve
+								accuracy). However, even from the very outset, you'll achieve
 								orders of magnitude improvements in your visibility to the sales
 								funnel.</div>
 						</div>
@@ -304,8 +302,7 @@
 							<h5 class="mb-0">
 								<a id="faq1" class="collapsed" data-toggle="collapse"
 									data-parent="#accordion" href="#collapseThree"> How does
-									all this work?<br>
-								<br>
+									all this work?<br> <br>
 								</a>
 							</h5>
 						</div>
@@ -313,7 +310,7 @@
 							<div id="faq2" class="card-body">We analyse the
 								customer-rep interaction and tell you how it's going both at the
 								level of individual leads but also at an aggregate team level.
-								That helps you share insights on what'™s working and align the
+								That helps you share insights on what's working and align the
 								team to best practices more effectively.</div>
 						</div>
 					</div>
@@ -324,8 +321,7 @@
 							<h5 class="mb-0">
 								<a id="faq1" class="collapsed" data-toggle="collapse"
 									data-parent="#accordion" href="#collapseFour"> Is this a
-									CRM?<br>
-								<br>
+									CRM?<br> <br>
 								</a>
 							</h5>
 						</div>
@@ -345,8 +341,7 @@
 							<h5 class="mb-0">
 								<a id="faq1" class="collapsed" data-toggle="collapse"
 									data-parent="#accordion" href="#collapseFive"> Do I need a
-									CRM to use Talentify?<br>
-								<br>
+									CRM to use Talentify?<br> <br>
 								</a>
 							</h5>
 						</div>
@@ -365,14 +360,14 @@
 							<h5 class="mb-0">
 								<a id="faq1" class="collapsed" data-toggle="collapse"
 									data-parent="#accordion" href="#collapseSix"> My dialer
-									already records my calls -€“ why do I need this? </a>
+									already records my calls - why do I need this? </a>
 							</h5>
 						</div>
 						<div id="collapseSix" class="collapse">
 							<div id="faq2" class="card-body">Dialers record calls, but
-								who'€™s going to listen to them? Also, you need to understand
+								who's going to listen to them? Also, you need to understand
 								conversations in the context of your product, your processes,
-								your leads and your pipeline. That'€™s the gap that Talentify is
+								your leads and your pipeline. That's the gap that Talentify is
 								filling in</div>
 						</div>
 					</div>
@@ -382,9 +377,8 @@
 						<div class="card-header">
 							<h5 class="mb-0">
 								<a id="faq1" class="collapsed" data-toggle="collapse"
-									data-parent="#accordion" href="#collapseSeven"> Isn'€™t
-									this complicated to implement?<br>
-								<br>
+									data-parent="#accordion" href="#collapseSeven"> Isn't this
+									complicated to implement?<br> <br>
 								</a>
 							</h5>
 						</div>
@@ -392,8 +386,8 @@
 							<div id="faq2" class="card-body">Talentify can be
 								introduced in a staged manner that integrates cleanly with your
 								existing sales technology stack. For evaluation, we have an out
-								of the box solution that just works and doesn'€™t require
-								anything from you except the leads you want to chase down!</div>
+								of the box solution that just works and doesn't require anything
+								from you except the leads you want to chase down!</div>
 						</div>
 					</div>
 				</div>
@@ -407,10 +401,10 @@
 							</h5>
 						</div>
 						<div id="collapseeight" class="collapse">
-							<div id="faq2" class="card-body">Sure! If you haven'€™t
-								made any investments in your sales tech stack yet, Talentify
-								comes with some plug and play integrations that you can get
-								moving with right from the get go.</div>
+							<div id="faq2" class="card-body">Sure! If you haven't made
+								any investments in your sales tech stack yet, Talentify comes
+								with some plug and play integrations that you can get moving
+								with right from the get go.</div>
 						</div>
 					</div>
 				</div>

@@ -72,14 +72,14 @@
 			<div class="ws-m">&nbsp;</div>
 			<div class="row vertical-align home__features_row m-0">
 
-				<div class="col-md-offset-1 col-md-4 col-xs-12 mb-sm-40">
-					<h4 data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0" >SEE HOW YOUR SALES CALLS ARE GOING</h4>
-					<p style="font-weight: 600" data-animate="wow fadeInUp" data-animate-delay="0.5">
+				<div class="col-md-offset-1 col-md-5 col-xs-12 mb-sm-40 mt-5">
+					<h4 data-animate="wow fadeInUp" data-animate-delay="0.5" class="mx-5" >SEE HOW YOUR SALES CALLS ARE GOING</h4><br>
+					<p style="font-weight: 600" data-animate="wow fadeInUp" data-animate-delay="0.5" class="mx-5 ">
 						Talentify call analytics help you see what your salesforce is talking about and gives you insight into what sets apart your top performers from the rest <br>
 						<br> See if your core sales messages are getting communicated to customers and how your sales reps handle critical customer microinteractions during a call
 					</p>
 				</div>
-				<div class=" col-md-8 col-xs-12 col-md-push-1 no-gap ">
+				<div class=" col-md-7 col-xs-12 col-md-push-1 no-gap ">
 					<img class="img-responsive" style="width: 100%;" src="images/devices/index1.png" data-animate="wow fadeInRight" data-animate-delay="1.5" />
 				</div>
 			</div>
@@ -90,16 +90,17 @@
 
 	</div>
 
-	<div style="background-image: url('images/bgs/bg2.png'); background-size: cover" class="index-devices" data-scroll>
+	<div style="background-image: url('images/bgs/bg2.png'); background-size: cover" class="index-devices mt-0" data-scroll>
 		<section class="clearfix" style="margin-left: 0px">
 			<div class="ws-s">&nbsp;</div>
 			<div class="row vertical-align home__features_row m-0">
-				<div class="col-md-8 no-gap col-md-pull-6 ">
+				<div class="col-md-7 no-gap col-md-pull-6 ">
 					<img class="img-responsive" style="width: 100%" src="images/devices/index3.png" data-animate="wow fadeInLeft" data-animate-delay="0.5" />
 				</div>
-				<div class="col-md-offset-1 col-md-4 col-xs-12 col-md-push-6 mb-sm-50 wow fadeIn">
+				
+				<div class="col-md-5 col-xs-12 col-md-push-6 mb-sm-50 wow fadeIn">
 					<h4 style="color: #000" data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0">Keep a Hawk-Eye <br/>on your <br/>Sales Meetings</h4>
-					<p style="color: #111" data-animate="wow fadeInUp" data-animate-delay="0.5">
+					<br><p style="color: #111" data-animate="wow fadeInUp" data-animate-delay="0.5">
 						See how your reps are doing in webinars and face to face meetings. <br>
 						<br> See which collaterals and messages are getting facetime with your customer and how they are responding to them!
 					</p>
@@ -116,7 +117,7 @@
 		<section class="clearfix" style="margin-left: 100px;">
 			<div class="row m-0">
 
-				<div class=" col-md-offset-1 col-md-3 col-xs-12 wow fadeIn " style="margin-top: 50px;">
+				<div class=" col-md-offset-1 col-md-3 col-xs-12 mt-5 wow fadeIn " >
 					<h4 style="color: #000; width: 500px" data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0">Coach your sales team better with custom content</h4>
 					<p style="color: #111" data-animate="wow fadeInUp" data-animate-delay="0.5">
 						Train your salesforce on-the-go with interactive micro-learning that is customized to their learning needs <br>
@@ -125,7 +126,7 @@
 						<br> Gamification and Leaderboards help get the competition really going!
 					</p>
 				</div>
-				<div class=" col-md-5 col-xs-12  " data-animate="wow fadeInRight" data-animate-delay="0.5" style="margin-left: 350px;">
+				<div class=" col-md-5 col-xs-12 mt-5 " data-animate="wow fadeInRight" data-animate-delay="0.5" style="margin-left: 350px;">
 					<div class="w3-content w3-section" style="margin-top: 0px;">
 						<img class="mySlides" src="images/devices/Mobile/m18.png" style="width: 40%; height: auto"> <img class="mySlides" src="images/devices/Mobile/m15.png" style="width: 40%; height: auto"> <img class="mySlides" src="images/devices/Mobile/m17.png" style="width: 40%; height: auto">
 

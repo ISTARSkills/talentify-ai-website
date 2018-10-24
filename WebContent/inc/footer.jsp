@@ -31,7 +31,8 @@
         <div class="col-md-3">
           <h4>Contact Us</h4>
           <p>
-            Talentify 550 West B Street, 4th Floor #103, San Diego, CA 92101
+            Talentify <br>
+            550 West B Street, 4th Floor #103, San Diego, CA 92101
             <br>
             +1(833)815-2444
             <br>
