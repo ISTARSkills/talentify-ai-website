@@ -13,6 +13,7 @@
 					<li class="nav-item  dropdown"><a href="product.jsp" class="nav-link"> PRODUCT </a></li>
 					<li class="nav-item dropdown"><a href="features.jsp" class="nav-link "> FEATURES </a></li>
 					<li class="nav-item dropdown"><a href="pricing.jsp" class="nav-link "> PRICING </a></li>
+					<li class="nav-item dropdown"><a href="blog.jsp" class="nav-link "> BLOGS </a></li>
 					<li class="nav-item dropdown"><a href="about_us.jsp" class="nav-link "> ABOUT US </a></li>
 					<li class="nav-item dropdown dropdown-extend"><a href="sign-in.jsp" class="nav-link "> SIGN UP </a></li>
 
