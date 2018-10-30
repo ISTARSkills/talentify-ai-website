@@ -111,14 +111,15 @@ function carousel() {
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124910681-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83297448-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-124910681-1');
+  gtag('config', 'UA-83297448-2');
 </script>
+
 
   <script type="text/javascript">
   var isValidEmailId = true;
