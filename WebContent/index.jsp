@@ -23,14 +23,14 @@
 
 
 			<div data-animate="wow fadeInLeft" data-animate-duration="0.5">
-				<h1 class="display-1">HELP</h1>
+				<h1 class="display-1">GET</h1>
 			</div>
 
 			<div data-animate="wow fadeInLeft" data-animate-delay="0.5">
-				<h1 class="display-1">YOUR SALES TEAM</h1>
+				<h1 class="display-1">INSIDE EVERY</h1>
 			</div>
 			<div data-animate="wow fadeInLeft" data-animate-delay="1.0">
-				<h1 class="display-1">GET THE WINNING EDGE</h1>
+				<h1 class="display-1">SALES CONVERSATION</h1>
 			</div>
 
 
@@ -38,7 +38,7 @@
 
 
 			<div data-animate="wow fadeInUp" data-animate-delay="0.8">
-				<h4 class="display-2">Talentify.ai- Insights that matter, Coaching that counts</h4>
+				<h4 class="display-2">SEE WHAT WORKS, WHAT DOESN'T AND HELP YOUR REPS SELL BETTER</h4>
 			</div>
 
 			<div class=" wow customFadeInUp" data-animate-delay="1" data-animate-duration="2">
