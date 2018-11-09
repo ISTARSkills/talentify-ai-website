@@ -17,6 +17,10 @@
 
 <jsp:include page="inc/nav_bar.jsp"></jsp:include>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVP7ZXX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="region region-content"></div>
 	<div class="business-hero">
 		<div class="container">
@@ -42,7 +46,7 @@
 			</div>
 
 			<div class=" wow customFadeInUp" data-animate-delay="1" data-animate-duration="2">
-				<a href="sign-in.jsp" class="btn-pill btn-pill-primary btn-pill-lg">Get Started</a>
+				<a id="getstarted1" href="sign-in.jsp" class="btn-pill btn-pill-primary btn-pill-lg">Get Started</a>
 			</div>
 		</div>
 	</div>
