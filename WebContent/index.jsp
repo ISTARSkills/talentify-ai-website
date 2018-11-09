@@ -59,7 +59,7 @@
 						<br> Talentify also lets you help your sales team improve with customized learning content to help them up their game and win!
 					</p>
 					<div class="cta">
-						<a href="sign-in.jsp" class="btn-pill btn-pill-primary btn-pill-lg" style="margin-top: 50px;"> GET IN TOUCH </a>
+						<a id="getstarted" href="sign-in.jsp" class="btn-pill btn-pill-primary btn-pill-lg" style="margin-top: 50px;"> GET IN TOUCH </a>
 					</div>
 				</div>
 			</div>
