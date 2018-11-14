@@ -57,10 +57,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 text-center">
 					<img src="images/logo.png" style="width: 76px; height: 76px; align-self: center">
 					<h1 id="heading1">TALENTIFY</h1>
-					<h2 id="heading2">THE "SALES CONVERSION OPTIMIZATION" PLATFORM</h2>
+					<h2 id="heading2">HELP EVERY REP SELL LIKE A CHAMPION </h2>
 					<p>
-						Talentify is a comprehensive sales performance management solution that gives you never-before insights into the last mile of customer-salesperson interactions. Talentify lets you see how your sales team communicates with customers on calls, presentations and webinars and see what they are doing right, and where they need help. <br>
-						<br> Talentify also lets you help your sales team improve with customized learning content to help them up their game and win!
+						Talentify gives you incredible insights into the last mile of customer-salesperson interactions.See how your sales team communicates with customers on calls, presentations and webinars and get insights into what they are doing right, and where they need help. 
+						<br><br>Talentify also lets you help your sales team improve with customized learning content to help them up their game and win!
 					</p>
 					<div class="cta">
 						<a id="getstarted" href="sign-in.jsp" class="btn-pill btn-pill-primary btn-pill-lg" style="margin-top: 50px;"> GET IN TOUCH </a>
