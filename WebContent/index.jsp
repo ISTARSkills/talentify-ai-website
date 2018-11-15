@@ -122,12 +122,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row m-0">
 
 				<div class=" col-md-offset-1 col-md-3 col-xs-12 mt-5 wow fadeIn " >
-					<h4 style="color: #000; width: 500px" data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0">Coach your sales team better with custom content</h4>
+					<h4 style="color: #000; width: 500px" data-animate="wow fadeInUp" data-animate-delay="0.5" class="m-0">COACH YOUR REPS TO BE CHAMPIONS</h4><br>
 					<p style="color: #111" data-animate="wow fadeInUp" data-animate-delay="0.5">
-						Train your salesforce on-the-go with interactive micro-learning that is customized to their learning needs <br>
-						<br> Interactive Assessments let your salesforce practice their pitch on mock calls and presentations <br>
-						<br> Content customization services for your business unique needs <br>
-						<br> Gamification and Leaderboards help get the competition really going!
+						Provide your reps with automatic feedback on every interaction to help them close deals more effectively <br>
+						<br>  Give feedback and share best practices across the team <br>
+						<br> Deliver custom training aligned to their weaknesses to help them fix their game 
+						
 					</p>
 				</div>
 				<div class=" col-md-5 col-xs-12 mt-5 " data-animate="wow fadeInRight" data-animate-delay="0.5" style="margin-left: 350px;">
