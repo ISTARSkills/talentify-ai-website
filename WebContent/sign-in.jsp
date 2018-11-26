@@ -38,7 +38,7 @@
                     
       <textarea id="message" name="message" placeholder="Message" rows="6"></textarea>
       <div class="mx-auto text-center">
-        <input type="submit" class="btn-pill btn-pill-primary btn-pill-lg" value="CONTACT SALES" />
+        <input id="signup" type="submit" class="btn-pill btn-pill-primary btn-pill-lg" value="CONTACT SALES" />
       </div>
       </form>
     </div>

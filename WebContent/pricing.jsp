@@ -50,7 +50,7 @@
 				<div class="feature">
 					In-built Dialer & VC Integrations
 				</div>
-				<div class="feature">Simple CRM</div>
+				
 				
 
 			</section>
