@@ -123,7 +123,7 @@ your contact information at which you may be contacted (for example, your addres
 <p>16.2 Following receipt of your Notice, We will take whatever action as We deem appropriate, including removal of the challenged content from the Service. We may ask you to provide further or supplemental information, prior to removing any content, as We deem necessary to comply with the provisions of the DMCA. It is Our policy to respond only to Notices of alleged infringement that comply with the provisions of this section.</p>
 
 </p>16.2 Our Designated Copyright Agent for notices of claims of copyright infringement may be reached as follows:</p>
-<p>16.3 Copyright Agent, Talentify Technologies Pvt. Ltd., Surga Thilakan CEO; OR by electronic mail at: help@Talentify.ai</p>
+<p>16.3 Copyright Agent, iStar Skill Development  Pvt. Ltd., Surga Thilakan CEO; OR by electronic mail at: help@Talentify.ai</p>
 
  <h2 style="text-align:left">17. GOVERNING LAW AND EXCLUSIVE COURTS</h2>
 <p>This Agreement will be governed by the courts of Bengaluru, India in accordance with applicable state and central legislation. You and Us consent to the exclusive jurisdiction and venue in the courts in Bengaluru, India, except that temporary relief to enjoin infringement of intellectual property rights may be sought in any court where such infringement has occurred. EACH PARTY WAIVES ANY OBJECTION (ON THE GROUNDS OF LACK OF JURISDICTION, FORUM NON CONVENIENS OR OTHERWISE) TO THE EXERCISE OF SUCH JURISDICTION OVER IT BY ANY SUCH COURTS.</p>
