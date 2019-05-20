@@ -17,7 +17,7 @@
       <div class="row">
         <div class="col-12 ">
         <h1 style="font-weight: 700; font-size: 2.2em">Privacy Policy</h1>
-   p>We, at Talentify Technologies Pvt. Ltd., put great efforts in making sure that your personal information is safe and used properly.</p>
+   <p>We, at Talentify Technologies Pvt. Ltd., put great efforts in making sure that your personal information is safe and used properly.</p>
 
 <p>This policy explains our privacy practices for processing personal information on our data analytics services (the "Service" and "Customers"), and on our website at Talentify.ai ("Website"). We process your personal information subject to the terms of this policy.</p>
 
@@ -92,7 +92,8 @@
 
 <p>We may redact from the data which we will make available to you, any personal information related to others.</p>
 
-<h2 style="text-align:left">DATA RETENTION<h2 style="text-align:left">
+<h2 style="text-align:left">DATA RETENTION</h2>
+
 <p>We retain different types of information for different periods, depending on the purposes for processing the information, our legitimate business purposes as well as pursuant to legal requirements under the applicable law.</p>
 
 <p>We may need to keep personal information for as long as necessary to support the purposes of processing under this policy and for additional legitimate business purposes, for example, for record keeping, for cyber-security management purposes, legal proceedings and tax issues.</p>
