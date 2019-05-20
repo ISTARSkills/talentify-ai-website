@@ -28,7 +28,7 @@
 
 <p>1.3 "Individual" means a natural person to whom Personal Data relates, also referred to as "Data Subject" pursuant to EU data protection Laws and regulations.</p>
 
-<p>1.4 "Other Parties to the Call" – parties to Customer's phone calls, video calls and online demos, other than Personnel.</p>
+<p>1.4 "Other Parties to the Call" - parties to Customer's phone calls, video calls and online demos, other than Personnel.</p>
 
 <p>1.5 "Personal Data" means data about an identified or identifiable Individual.</p>
 
@@ -40,7 +40,7 @@
 
 <p>1.9 "Privacy Shield Principles" mean the Privacy Shield Principles, as supplemented by the Supplemental Principles and contained in Annex II to the European Commission Decision C(2016)4176 of July 12, 2016, as may be amended, superseded or replaced.</p>
 
-<p>1.10 "Process" or "Processing" means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.,/p>
+<p>1.10 "Process" or "Processing" means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.</p>
 
 <p>1.11 "Service Notice" – means a clear written or recorded notice about the Service and Customer's use thereof, which at a minimum provides that the Service is a speech analytics tool, it enables Customer to record, analyze and share for a limited period of time the recordings of phone calls, video calls and online demos (as applicable), including associated data and documentation (if applicable), and further includes information as required under the applicable law.</p>
 
@@ -54,7 +54,7 @@
 <p>2.4 Processing for Legitimate Purposes. Notwithstanding, Talentify.ai may Process Personal Information for legitimate business purposes, including archiving, back-up and disaster recovery, cyber security, operations, control, improvements and development of Talentify.ai's Service, fraud and service misuse prevention and legal and administrative proceedings.</p>
 
 <h2 style="text-align:left">3. RIGHTS OF INDIVIDUALS</h2>
-,p.3.1 Requests. Talentify.ai will, to the extent legally permitted, promptly notify Customer if it receives a request from an Individual, who's Personal Data is included in Customer's Personal Data, or a request by the Individual's legal guardians, to exercise the right to access, correct, amend or delete Personal Data related to the Individual, or to exercise such other personal right that the Individual is entitled to pursuant the applicable Privacy laws and Regulations.</p>
+<p>3.1 Requests. Talentify.ai will, to the extent legally permitted, promptly notify Customer if it receives a request from an Individual, who's Personal Data is included in Customer's Personal Data, or a request by the Individual's legal guardians, to exercise the right to access, correct, amend or delete Personal Data related to the Individual, or to exercise such other personal right that the Individual is entitled to pursuant the applicable Privacy laws and Regulations.</p>
 
 <p>3.2 Assistance. Talentify.ai will provide Customer with commercially reasonable cooperation and assistance in relation to handling the Individual's request, to the extent legally permitted and to the extent Customer does not have access to such Personal Data through its use of the Service. Except if not permitted under the applicable Privacy Laws and Regulations, Customer will reimburse Talentify.ai with any costs and expenses related to Talentify.ai's provision of such assistance.</p>
 
@@ -64,7 +64,7 @@
 <p>4.2 Confidentiality. Talentify.ai will impose appropriate contractual obligations upon its personnel engaged in the Processing of Personal Data, including relevant obligations regarding confidentiality, data protection and data security. Talentify.ai will ensure that its personnel engaged in the Processing of Personal Data are informed of the confidential nature of the Personal Data, have received appropriate training in their responsibilities, and have executed written confidentiality agreements. Talentify.ai will ensure that such confidentiality agreements survive the termination of the employment or engagement of its personnel.</p>
 
 <h2 style="text-align:left">5. AFFILIATES AND THIRD-PARTY SERVICE PROVIDERS</h2>
-,p>5.1 Affiliates. Some or all of Talentify.ai's obligations under the Terms of Service may be performed by Talentify.ai Affiliates.</p>
+<p>5.1 Affiliates. Some or all of Talentify.ai's obligations under the Terms of Service may be performed by Talentify.ai Affiliates.</p>
 
 <p>5.2 Agents. Customer acknowledges and agrees that: (i) Talentify.ai's Affiliates may retain Process Personal Data on Talentify.ai's behalf to perform the Service under the Terms of Service; and (ii) Talentify.ai and Talentify.ai's Affiliates respectively may engage third-party service providers in the performance of the Service. All Affiliates and agents to whom Talentify.ai transfers Personal Data to provide the Service have entered into written agreements with Talentify.ai or other binding instruments that bind them by substantially the same material obligations under this DPA.</p>
 
@@ -84,7 +84,7 @@
 <h2 style="text-align:left">7. SECURITY</h2>
 <p>7.1 Controls. Talentify.ai will maintain administrative, physical and technical safeguards for the protection of the security, confidentiality and integrity of Customer's Personal Data, pursuant to the Talentify.ai Information Security Policy. Talentify.ai regularly monitors compliance with these safeguards. Talentify.ai will not materially decrease the overall security of the Service during the term of the Terms of Service.</p>
 
-<h2 style="text-align:left">7.2 Policies, Certifications and Audit Reports. Talentify.ai uses external auditors to verify the adequacy of its security measures. The internal controls of the Service are subject to periodic testing by such auditors and are based on the Statement on Standards for Attestation Engagements (SSAE) No. 16 Service Organisation Control (SOC2) report. Upon Customer's written request at reasonable intervals and subject to confidentiality limitations, Talentify.ai will make available to Customer that is not a Talentify.ai competitor (or to a third party auditor on Customer's behalf, that is not a Talentify.ai competitor and subject to the auditor's execution of Talentify.ai's non-disclosure agreement), the then most recent version of the Talentify.ai Information Security Policy summaries of third-party audit or certification reports commonly made available to Talentify.ai Customers.</h2>
+<p>7.2 Policies, Certifications and Audit Reports. Talentify.ai uses external auditors to verify the adequacy of its security measures. The internal controls of the Service are subject to periodic testing by such auditors and are based on the Statement on Standards for Attestation Engagements (SSAE) No. 16 Service Organisation Control (SOC2) report. Upon Customer's written request at reasonable intervals and subject to confidentiality limitations, Talentify.ai will make available to Customer that is not a Talentify.ai competitor (or to a third party auditor on Customer's behalf, that is not a Talentify.ai competitor and subject to the auditor's execution of Talentify.ai's non-disclosure agreement), the then most recent version of the Talentify.ai Information Security Policy summaries of third-party audit or certification reports commonly made available to Talentify.ai Customers.</p>
 
 <h2 style="text-align:left">8. SECURITY BREACH MANAGEMENT AND NOTIFICATION</h2>
 <p>8.1 Breach prevention and management. Talentify.ai will maintain security incident management policies and procedures and will, to the extent permitted by law, promptly notify Customer of any actual or reasonably suspected unauthorized access to, acquisition of, or disclosure of Customer Personal Data, by Talentify.ai or its Affiliates or agents of which Talentify.ai becomes aware (a "Security Incident").</p>
