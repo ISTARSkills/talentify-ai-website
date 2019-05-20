@@ -42,7 +42,7 @@
 
 <p>1.10 "Process" or "Processing" means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.</p>
 
-<p>1.11 "Service Notice" – means a clear written or recorded notice about the Service and Customer's use thereof, which at a minimum provides that the Service is a speech analytics tool, it enables Customer to record, analyze and share for a limited period of time the recordings of phone calls, video calls and online demos (as applicable), including associated data and documentation (if applicable), and further includes information as required under the applicable law.</p>
+<p>1.11 "Service Notice" - means a clear written or recorded notice about the Service and Customer's use thereof, which at a minimum provides that the Service is a speech analytics tool, it enables Customer to record, analyze and share for a limited period of time the recordings of phone calls, video calls and online demos (as applicable), including associated data and documentation (if applicable), and further includes information as required under the applicable law.</p>
 
 <h2 style="text-align:left">2. DATA PROCESSING</h2>
 <p>2.1 Scope and Roles. This DPA applies when Personal Data is Processed by Talentify.ai as part of Talentify.ai's provision of Service, as further specified in the Terms of Service and the applicable Order Form. In this context, to the extent that EU Privacy Laws and Regulations apply to the Personal Data that Talentify.ai processes for Customer under the Terms of Service, Customer is the Data Controller and Talentify.ai and applicable Affiliates are the Data Processor under such laws and regulations.</p>
@@ -103,7 +103,7 @@
 <p>Talentify.ai may process data based on extracts of Personal Data on an aggregated and non-identifiable forms, for Talentify.ai's legitimate business purposes, including for testing, development, controls and operations of the Service, and may share and retain such data at Talentify.ai's discretion.</p>
 
 <h2 style="text-align:left">12. LIMITATION OF LIABILITY</h2>
-<p>Each party's and its Affiliates' liability arising out of or related to this DPA (whether in contract, tort or under any other theory of liability) is subject to the section ‘Limitation of Liability' of the Terms of Service, and any reference in such section to the liability of a party means that party and its Affiliates in the aggregate.</p>
+<p>Each party's and its Affiliates' liability arising out of or related to this DPA (whether in contract, tort or under any other theory of liability) is subject to the section 'Limitation of Liability' of the Terms of Service, and any reference in such section to the liability of a party means that party and its Affiliates in the aggregate.</p>
 
 <h2 style="text-align:left">13. TERM</h2>
 <p>This DPA will commence on the same date that the Terms of Service are effective, and will continue until the Terms of Service are expired or terminated, pursuant to the terms therein.,/p>
