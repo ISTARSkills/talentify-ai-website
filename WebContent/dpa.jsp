@@ -12,12 +12,12 @@
     
 <body>
   
-   <div class="index-intro-header" style="background: #fff; margin-top:0px">
+   <div class="index-intro-header" style="background: #fff; margin-top:0px;text-align:left">
     <section class="container">
       <div class="row">
         <div class="col-12 ">
         <h1 style="font-weight: 700; font-size: 2.2em"> Data Processing Addendum</h1>
-   <p>This Data Processing Addendum ("DPA") forms part of the Talentify.ai Terms of Service ("Terms of Service") between Talentify.ai Ltd. an Israeli corporation with a business office located at 63/2 18th Cross Malleswaram, Bangalore, India and its Affiliates ("Talentify.ai") and the Customer whose details are indicated in the Order Form ("Customer") as set forth in the signature block below, to reflect the parties' agreement with regard to the Processing of Personal Data. All capitalized terms not defined herein will have the meaning set forth in the Terms of Service.</p>
+   <p>This Data Processing Addendum ("DPA") forms part of the Talentify.ai Terms of Service ("Terms of Service") between iStar Skill Development Pvt. Ltd. an Israeli corporation with a business office located at 63/2 18th Cross Malleswaram, Bangalore, India and its Affiliates ("Talentify.ai") and the Customer whose details are indicated in the Order Form ("Customer") as set forth in the signature block below, to reflect the parties' agreement with regard to the Processing of Personal Data. All capitalized terms not defined herein will have the meaning set forth in the Terms of Service.</p><br>
 
 <h4 style="text-align:left">1. DATA PROCESSING TERMS</h4>
 <p>In the course of providing the Service to Customer pursuant to the Terms of Service, Talentify.ai may Process Personal Data on behalf of Customer. Talentify.ai agrees to comply with the following provisions with respect to Personal Data processed by Talentify.ai as part of the Service for Customer.</p>
@@ -42,7 +42,7 @@
 
 <p>1.10 "Process" or "Processing" means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.</p>
 
-<p>1.11 "Service Notice" - means a clear written or recorded notice about the Service and Customer's use thereof, which at a minimum provides that the Service is a speech analytics tool, it enables Customer to record, analyze and share for a limited period of time the recordings of phone calls, video calls and online demos (as applicable), including associated data and documentation (if applicable), and further includes information as required under the applicable law.</p>
+<p>1.11 "Service Notice" - means a clear written or recorded notice about the Service and Customer's use thereof, which at a minimum provides that the Service is a speech analytics tool, it enables Customer to record, analyze and share for a limited period of time the recordings of phone calls, video calls and online demos (as applicable), including associated data and documentation (if applicable), and further includes information as required under the applicable law.</p><br>
 
 <h4 style="text-align:left">2. DATA PROCESSING</h4>
 <p>2.1 Scope and Roles. This DPA applies when Personal Data is Processed by Talentify.ai as part of Talentify.ai's provision of Service, as further specified in the Terms of Service and the applicable Order Form. In this context, to the extent that EU Privacy Laws and Regulations apply to the Personal Data that Talentify.ai processes for Customer under the Terms of Service, Customer is the Data Controller and Talentify.ai and applicable Affiliates are the Data Processor under such laws and regulations.</p>
@@ -51,17 +51,17 @@
 
 <p>2.3 Instructions for Talentify.ai's Processing of Personal Data. Talentify.ai will only Process Personal Data on behalf of and in accordance with Customer's instructions. Customer instructs Talentify.ai to Process Personal Data for the following purposes: (i) Processing in accordance with the Terms of Service and applicable Order Forms; and (ii) Processing to comply with other reasonable instructions provided by Customer where such instructions are consistent with the terms of the Terms of Service and comply with applicable Privacy Laws and Regulations. Processing outside the scope of this DPA (if any) will require prior written agreement between Talentify.ai and Customer on additional instructions for processing, including agreement on any additional fees Customer will pay to Talentify.ai for carrying out such instructions.</p>
 
-<p>2.4 Processing for Legitimate Purposes. Notwithstanding, Talentify.ai may Process Personal Information for legitimate business purposes, including archiving, back-up and disaster recovery, cyber security, operations, control, improvements and development of Talentify.ai's Service, fraud and service misuse prevention and legal and administrative proceedings.</p>
+<p>2.4 Processing for Legitimate Purposes. Notwithstanding, Talentify.ai may Process Personal Information for legitimate business purposes, including archiving, back-up and disaster recovery, cyber security, operations, control, improvements and development of Talentify.ai's Service, fraud and service misuse prevention and legal and administrative proceedings.</p><br>
 
 <h4 style="text-align:left">3. RIGHTS OF INDIVIDUALS</h4>
 <p>3.1 Requests. Talentify.ai will, to the extent legally permitted, promptly notify Customer if it receives a request from an Individual, who's Personal Data is included in Customer's Personal Data, or a request by the Individual's legal guardians, to exercise the right to access, correct, amend or delete Personal Data related to the Individual, or to exercise such other personal right that the Individual is entitled to pursuant the applicable Privacy laws and Regulations.</p>
 
-<p>3.2 Assistance. Talentify.ai will provide Customer with commercially reasonable cooperation and assistance in relation to handling the Individual's request, to the extent legally permitted and to the extent Customer does not have access to such Personal Data through its use of the Service. Except if not permitted under the applicable Privacy Laws and Regulations, Customer will reimburse Talentify.ai with any costs and expenses related to Talentify.ai's provision of such assistance.</p>
+<p>3.2 Assistance. Talentify.ai will provide Customer with commercially reasonable cooperation and assistance in relation to handling the Individual's request, to the extent legally permitted and to the extent Customer does not have access to such Personal Data through its use of the Service. Except if not permitted under the applicable Privacy Laws and Regulations, Customer will reimburse Talentify.ai with any costs and expenses related to Talentify.ai's provision of such assistance.</p><br>
 
 <h4 style="text-align:left">4. TALENTIFY.AI PERSONNEL</h4>
 <p>4.1 Limitation of Access. Talentify.ai will ensure that Talentify.ai's access to Personal Data is limited to those personnel who require such access to perform the Terms of Service.</p>
 
-<p>4.2 Confidentiality. Talentify.ai will impose appropriate contractual obligations upon its personnel engaged in the Processing of Personal Data, including relevant obligations regarding confidentiality, data protection and data security. Talentify.ai will ensure that its personnel engaged in the Processing of Personal Data are informed of the confidential nature of the Personal Data, have received appropriate training in their responsibilities, and have executed written confidentiality agreements. Talentify.ai will ensure that such confidentiality agreements survive the termination of the employment or engagement of its personnel.</p>
+<p>4.2 Confidentiality. Talentify.ai will impose appropriate contractual obligations upon its personnel engaged in the Processing of Personal Data, including relevant obligations regarding confidentiality, data protection and data security. Talentify.ai will ensure that its personnel engaged in the Processing of Personal Data are informed of the confidential nature of the Personal Data, have received appropriate training in their responsibilities, and have executed written confidentiality agreements. Talentify.ai will ensure that such confidentiality agreements survive the termination of the employment or engagement of its personnel.</p><br>
 
 <h4 style="text-align:left">5. AFFILIATES AND THIRD-PARTY SERVICE PROVIDERS</h4>
 <p>5.1 Affiliates. Some or all of Talentify.ai's obligations under the Terms of Service may be performed by Talentify.ai Affiliates.</p>
@@ -70,7 +70,7 @@
 
 <p>5.3 Liability. Talentify.ai will be liable for the acts and omissions of its Affiliates and agents to the same extent Talentify.ai would be liable if performing the Service of each Affiliate or agent directly under the terms of this DPA, except as otherwise set forth in the Terms of Service.</p>
 
-<p>5.4 Consent. Customer consents to Talentify.ai's use of Talentify.ai Affiliates and agents in the performance of the Service in accordance with the terms of this Section 5.</p>
+<p>5.4 Consent. Customer consents to Talentify.ai's use of Talentify.ai Affiliates and agents in the performance of the Service in accordance with the terms of this Section 5.</p><br>
 
 <h4 style="text-align:left">6. ADDITIONAL TERMS FOR EU PERSONAL DATA</h4>
 <p>6.1 Talentify.ai Ltd. complies with Israeli Privacy Laws and Regulations. Transfer of Personal Data related to EU Individuals to Israel is made in accordance the EU Commission decision 2011/61/EU of January 31, 2011, on the adequate protection of personal data by the State of Israel with regard to automated processing of personal data.</p>
@@ -79,7 +79,7 @@
 
 <p>6.3 All Talentify.ai Affiliates and agents to whom Talentify.ai transfers Personal Data to provide the Service are certified to the Privacy Shield, or provide at least the same level of protection for the Personal Data as is required by the relevant principles of the Privacy Shield and comply with the requirements under the Privacy Shield for the onward transfer of Personal Data to agents.</p>
 
-<p>6.4 If the Privacy Shield is revoked, or if Talentify.ai or any of its Affiliates and agents are no longer able to continue complying with the Privacy Shield, then Talentify.ai will take such measures to continue facilitating the lawful Processing of Personal Data related to EU Individuals by Talentify.ai, and its Affiliates and agents.</p>
+<p>6.4 If the Privacy Shield is revoked, or if Talentify.ai or any of its Affiliates and agents are no longer able to continue complying with the Privacy Shield, then Talentify.ai will take such measures to continue facilitating the lawful Processing of Personal Data related to EU Individuals by Talentify.ai, and its Affiliates and agents.</p><br>
 
 <h4 style="text-align:left">7. SECURITY</h4>
 <p>7.1 Controls. Talentify.ai will maintain administrative, physical and technical safeguards for the protection of the security, confidentiality and integrity of Customer's Personal Data, pursuant to the Talentify.ai Information Security Policy. Talentify.ai regularly monitors compliance with these safeguards. Talentify.ai will not materially decrease the overall security of the Service during the term of the Terms of Service.</p>
@@ -106,7 +106,7 @@
 <p>Each party's and its Affiliates' liability arising out of or related to this DPA (whether in contract, tort or under any other theory of liability) is subject to the section 'Limitation of Liability' of the Terms of Service, and any reference in such section to the liability of a party means that party and its Affiliates in the aggregate.</p>
 
 <h4 style="text-align:left">13. TERM</h4>
-<p>This DPA will commence on the same date that the Terms of Service are effective, and will continue until the Terms of Service are expired or terminated, pursuant to the terms therein.,/p>
+<p>This DPA will commence on the same date that the Terms of Service are effective, and will continue until the Terms of Service are expired or terminated, pursuant to the terms therein.</p>
 
 <h4 style="text-align:left">14. COMPLIANCE</h4>
 <p>14.1 Talentify.ai's compliance team is responsible to make sure that all relevant Talentify.ai's personnel adhere to this DPA.</p>
