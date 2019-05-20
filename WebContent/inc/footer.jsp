@@ -26,6 +26,8 @@
           <h4>About Us</h4>
           <a href="about_us.jsp" class="legal">Team</a>
           <a href="t_n_c.jsp" class="legal">Terms & Conditions</a>
+           <a href="privacypolicy.jsp" class="legal">Privacy Policy</a>
+            <a href="dpa.jsp" class="legal">Data Processing Addendum</a>
           
         </div>
         <div class="col-md-3">
