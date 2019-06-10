@@ -50,23 +50,23 @@
 			<div class="row mx-0">
 				<div class="col-md-4">
 					<div class="member">
-						 <img src="http://istarindia.com/images/team/sreeram.jpg" style="width: 100%" /></a>
+						 <img src="images/Person/Surga.jpg" style="width: 100%" /></a>
+					</div>
+					<div class="name">SURGA</div>
+					<div class="designation">(CEO)</div>
+				</div>
+			
+				<div class="col-md-4">
+					<div class="member">
+						 <img src="images/Person/sreeram.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">Sreeraman</div>
 					<div class="designation">(MD)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
-						 <img src="http://istarindia.com/images/team/Surga.jpg" style="width: 100%" /></a>
-					</div>
-					<div class="name">SURGA</div>
-					<div class="designation">(CEO)</div>
-				</div>
 
-				<div class="col-md-4">
-					<div class="member">
-
-						 <img src="http://istarindia.com/images/team/Vaibhav.jpg" style="width: 100%" /></a>
+						 <img src="images/Person/Vaibhav.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">Vaibhav</div>
 					<div class="designation">(Vice President- Technology)</div>
@@ -88,14 +88,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="member">
-						 <img src="images/person/Sharath.png" style="width: 100%" /></a>
-					</div>
-					<div class="name">Sharath</div>
-					<div class="designation">(PreSales Head)</div>
-
-				</div>
-				<div class="col-md-4">
-					<div class="member">
 						 <img src="images/person/feroz.jpg" style="width: 100%" /></a>
 					</div>
 					<div class="name">Feroz</div>
@@ -107,13 +99,6 @@
 					</div>
 					<div class="name">Abhinav</div>
 					<div class="designation">(Sr Software Developer)</div>
-				</div>
-				<div class="col-md-4">
-					<div class="member">
-						 <img src="images/person/Vinay.png" style="width: 100%" /></a>
-					</div>
-					<div class="name">Vinay</div>
-					<div class="designation">(Software Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
@@ -131,31 +116,10 @@
 				</div>
 				<div class="col-md-4">
 					<div class="member">
-						 <img src="images/person/sumanth.png" style="width: 100%" /></a>
-					</div>
-					<div class="name">Sumanth</div>
-					<div class="designation">(Software Developer)</div>
-				</div>
-				<div class="col-md-4">
-					<div class="member">
-						 <img src="images/person/abhishek.png" style="width: 100%" /></a>
-					</div>
-					<div class="name">Abhishek</div>
-					<div class="designation">(Content Developer)</div>
-				</div>
-				<div class="col-md-4">
-					<div class="member">
 						 <img src="images/person/ravi.png" style="width: 100%" /></a>
 					</div>
 					<div class="name">Ravi</div>
 					<div class="designation">(Software Quality Engineer)</div>
-				</div>
-				<div class="col-md-4">
-					<div class="member">
-						 <img src="images/person/partha.png" style="width: 100%" /></a>
-					</div>
-					<div class="name">Parthasarathy</div>
-					<div class="designation">(Content Developer)</div>
 				</div>
 				<div class="col-md-4">
 					<div class="member">
@@ -174,17 +138,10 @@
 					<div class="designation">(Technology & Operations Engineer)</div>
 				</div>
 
-				<div class="col-md-4">
-					<div class="member">
-						 <img src="images/person/kabila.jpg" style="width: 100%" /></a>
-					</div>
-					<div class="name">Kabila</div>
-					<div class="designation">(Dream Alchemist)</div>
-				</div>
-
 			</div>
 		</div>
 	</div>
+
 
 	<div class="footer-signup" id="footer" style="margin-top: 0px;">
 		<div class="container">
