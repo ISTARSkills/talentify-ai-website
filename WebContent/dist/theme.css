@@ -17844,7 +17844,33 @@ img.mfp-img {
 .ion-university:before {
   content: "\f357";
 }
+.selectnew{
+  font-size: 18px;
+    margin-top: 20px;
+    outline: none;
+    color: #888;
+    background: white;
+    padding: 18px 20px;
+    border: 1px solid #cbcdd2;
+    width: 100%;
+    border-radius: 4px;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+}
 
+.selectnew select{
+  border: none;
+  background-color: transparent;
+  outline: none;
+  padding: 0;
+   width: 100%;
+   color: #888;
+    /* background: url(http://i57.tinypic.com/nnmgpy_th.png) no-repeat right; */
+    /* background-position: 55%; */
+  }
 .ion-unlocked:before {
   content: "\f254";
 }
@@ -17856,6 +17882,7 @@ img.mfp-img {
 .ion-usb:before {
   content: "\f2b8";
 }
+
 
 .ion-videocamera:before {
   content: "\f256";
@@ -32658,7 +32685,9 @@ height:100%;
   padding-top: 0px;
   border-top: 0px;
 }
-#api-docs #api-info #methods .method:nth-child(2) .method-section .method-example {
+#api-docs #api-info #methods .method:nth-child(2) .method-section .method-
+
+{
   padding-top: 35px;
   border-top: 0;
   box-shadow: none;
