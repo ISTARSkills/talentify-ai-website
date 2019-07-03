@@ -17,7 +17,7 @@
       <div class="row">
         <div class="col-12 ">
         <h1 style="font-weight: 700; font-size: 2.2em">Privacy Policy</h1>
-   <p>We, at Talentify Technologies Pvt. Ltd., put great efforts in making sure that your personal information is safe and used properly.</p>
+   <p>We, at ISTAR Skill Developement Pvt. Ltd., put great efforts in making sure that your personal information is safe and used properly.</p>
 
 <p>This policy explains our privacy practices for processing personal information on our data analytics services (the "Service" and "Customers"), and on our website at Talentify.ai ("Website"). We process your personal information subject to the terms of this policy.</p>
 
@@ -32,7 +32,7 @@
 <p>We provide speech analytics services. Our services enable our Customers to record, analyze and share for a limited period of time the recordings of sales agents' conversations, phone calls, video calls and online demos, including associated data and documentation. The recordings and our analysis of the recordings may contain personal information.</p>
 
 <h4 style="text-align:left">THE IDENTIFIABLE INFORMATION THAT WE COLLECT</h4>
-<p>When you access the Website, our servers log certain ‘traffic/session' information from your device, such as your user agent and the Internet Protocol (IP) address.</p>
+<p>When you access the Website, our servers log certain 'traffic/session' information from your device, such as your user agent and the Internet Protocol (IP) address.</p>
 
 <p>When you use the Website, we collect information about your Service activity, for example your log-in and log-out time, the duration of Service sessions, the content uploaded and downloaded, viewed web-pages or specific content on web-pages, activity measures and geo-location.</p>
 
@@ -55,7 +55,6 @@
 <p>Additionally, a merger, acquisition or any other structural change may require us to transfer your personal information to another entity, provided that the receiving entity will comply with this policy.</p>
 
 <p>We may be liable for onward transfers to third parties in violation of the Privacy Shield Principles. For further information, please below see the EU-US and Swiss-US Privacy Shield chapter of this policy.</p>
-
 <h4 style="text-align:left">DISCLOSURE OF INFORMATION TO AUTHORITIES</h4>
 <p>We may need to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
 
@@ -73,12 +72,12 @@
 
 <p>Note that if your personal information is included in content which was provided to the Service by one of our Customers. You may want to contact the Customer who provided that content and request that your personal information is removed.</p>
 
-<p>At any time, you may choose (opt out) whether your personal information is (i) to be disclosed to a third party, other than to third parties who act as our agents to perform tasks on our behalf and under our instructions, or (ii) to be used for a purpose that is materially different from the purposes for which it was originally collected, pursuant to this policy, or subsequently authorized by you. You may exercise your choice by contacting us at: privacy@Talentify.io.</p>
+<p>At any time, you may choose (opt out) whether your personal information is (i) to be disclosed to a third party, other than to third parties who act as our agents to perform tasks on our behalf and under our instructions, or (ii) to be used for a purpose that is materially different from the purposes for which it was originally collected, pursuant to this policy, or subsequently authorized by you. You may exercise your choice by contacting us at: privacy@Talentify.ai.</p>
 
 <p>Some web browsers offer a "Do Not Track" ("DNT") signal. A DNT signal is a HTTP header field indicating your preference for tracking your activities on the Website or through cross-site user tracking. Our Website does not respond to DNT signals.</p>
 
 <h4 style="text-align:left">YOUR CALIFORNIA PRIVACY RIGHTS</h4>
-<p>If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of personal information relating third parties to which we have disclosed certain categories of personal information during the preceding year for the third parties' direct marketing purposes. To make such a request, please contact us at: privacy@Talentify.io.</p>
+<p>If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of personal information relating third parties to which we have disclosed certain categories of personal information during the preceding year for the third parties' direct marketing purposes. To make such a request, please contact us at: privacy@Talentify.ai.</p>
 
 <h4 style="text-align:left">ACCESSING YOUR PERSONAL INFORMATION</h4>
 <p>At any time, you may contact us at: privacy@Talentify.ai and request to access the identifiable information that we keep about you. We will make good-faith efforts to locate the data that you request to access.</p>
