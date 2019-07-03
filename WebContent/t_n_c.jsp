@@ -17,7 +17,7 @@
       <div class="row">
         <div class="col-12 ">
         <h1 style="font-weight: 700; font-size: 2.2em; text-align:left">TERMS & CONDITIONS</h1>
-    <p>Accepting these Terms and Conditions. Welcome to Talentify! PLEASE READ THESE TERMS AND CONDITIONS (THE "AGREEMENT") CAREFULLY BEFORE USING OUR SERVICES, BECAUSE THEY CONSTITUTE A LEGALLY BINDING AGREEMENT BETWEEN YOU AND Talentify TECHNOLOGIES PVT LTD. AND GOVERN YOUR USE OF OUR SERVICES, APPLICATIONS, OR WEBSITES (COLLECTIVELY: THE "SERVICE" AND "OUR", "US" OR "WE" RESPECTIVELY).
+    <p>Accepting these Terms and Conditions. Welcome to Talentify! PLEASE READ THESE TERMS AND CONDITIONS (THE "AGREEMENT") CAREFULLY BEFORE USING OUR SERVICES, BECAUSE THEY CONSTITUTE A LEGALLY BINDING AGREEMENT BETWEEN YOU AND iStar SKILL DEVELOPMENT. AND GOVERN YOUR USE OF OUR SERVICES, APPLICATIONS, OR WEBSITES (COLLECTIVELY: THE "SERVICE" AND "OUR", "US" OR "WE" RESPECTIVELY).
     </p>
     <p>
          EXCEPT AS OTHERWISE AGREED IN WRITING BY THE PARTIES, THIS AGREEMENT IS INCORPORATED BY REFERENCE TO ANY SALES ORDER OR PURCHASE ORDER ("SALES ORDER") SIGNED AND EXECUTED BY AND BETWEEN YOU AND US.<p/>
@@ -38,7 +38,7 @@
  <h4 style="text-align:left">3. INFORMATION SECURITY AND DATA PROTECTION</h4>
 <p>3.1 We use technical and organizational measures to maintain an adequate level of security, to prevent unlawful or unauthorized access, use, destruction, modification and disclosure of your Content by our personnel. These measures include: (i) using encryption; (ii) ensuring the ongoing confidentiality, integrity, availability and resilience of our information systems; (iii) using back-up and data restoration capabilities; and, (iv) periodically testing and assessing Our data security capabilities - all pursuant to Our internal security practices and policies and third party audits.</p>
 
-<p>3.2 The terms of the Talentify. Data Processing Addendum ("DPA") are incorporated by reference to this Agreement and apply to the processing on Our information systems of personal information which is part of your Content.</p>
+<p>3.2 The terms of the iStar Skill Development. Data Processing Addendum ("DPA") are incorporated by reference to this Agreement and apply to the processing on Our information systems of personal information which is part of your Content.</p>
 <br>
  <h4 style="text-align:left">4. YOUR UNDERTAKINGS</h4>
 <p>4.1 You assume full responsibility for your and your Users' use of the Service in accordance with this Agreement and with applicable local, state, federal, national and international laws, regulations and treaties, and warrant that you have obtained all rights to provide us with all of the Content.</p>
