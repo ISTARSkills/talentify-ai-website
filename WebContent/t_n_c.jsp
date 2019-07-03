@@ -38,7 +38,7 @@
  <h4 style="text-align:left">3. INFORMATION SECURITY AND DATA PROTECTION</h4>
 <p>3.1 We use technical and organizational measures to maintain an adequate level of security, to prevent unlawful or unauthorized access, use, destruction, modification and disclosure of your Content by our personnel. These measures include: (i) using encryption; (ii) ensuring the ongoing confidentiality, integrity, availability and resilience of our information systems; (iii) using back-up and data restoration capabilities; and, (iv) periodically testing and assessing Our data security capabilities - all pursuant to Our internal security practices and policies and third party audits.</p>
 
-<p>3.2 The terms of the iStar Skill Development. Data Processing Addendum ("DPA") are incorporated by reference to this Agreement and apply to the processing on Our information systems of personal information which is part of your Content.</p>
+<p>3.2 The terms of the iStar Skill Development. <a href="dpa.jsp" style="color:#eb384f;text-decoration: underline;">Data Processing Addendum ("DPA")</a> are incorporated by reference to this Agreement and apply to the processing on Our information systems of personal information which is part of your Content.</p>
 <br>
  <h4 style="text-align:left">4. YOUR UNDERTAKINGS</h4>
 <p>4.1 You assume full responsibility for your and your Users' use of the Service in accordance with this Agreement and with applicable local, state, federal, national and international laws, regulations and treaties, and warrant that you have obtained all rights to provide us with all of the Content.</p>
@@ -132,7 +132,8 @@ your contact information at which you may be contacted (for example, your addres
 <p>Neither party will be deemed to be in breach of this Agreement for any failure caused by reasons beyond a party's reasonable control (including without limitation acts of God, war or civil disturbance), and it will notify the other party as soon as practicable in writing of such failure.</p>
 
  <br><h4 style="text-align:left">19. GENERAL</h4>
-<p>19.1 This Agreement, the Sales Order, the Privacy Policy and the Data Processing Addendum comprise the entire agreement between you and Us, state Our and Our suppliers' entire liability and your exclusive remedy with respect to the Service, and supersede all prior agreements pertaining to subject matters of the Agreement, the Sales Order, the Privacy Policy and the Data Processing Addendum, and you specifically confirm that you have not entered into this Agreement relaying on any oral or written public comments made by Us regarding future functionality or features of the Service. The terms of any purchase order or similar document will have no effect and are hereby rejected.</p>
+<p>19.1 This Agreement, the Sales Order, the Privacy Policy and the 
+   Addendum comprise the entire agreement between you and Us, state Our and Our suppliers' entire liability and your exclusive remedy with respect to the Service, and supersede all prior agreements pertaining to subject matters of the Agreement, the Sales Order, the Privacy Policy and the Data Processing Addendum, and you specifically confirm that you have not entered into this Agreement relaying on any oral or written public comments made by Us regarding future functionality or features of the Service. The terms of any purchase order or similar document will have no effect and are hereby rejected.</p>
 
 <p>19.2 You and We are independent contractors with respect to each other, and nothing in this Agreement will be construed as creating a partnership, agency, fiduciary or employment relationship or a joint venture between us.</p>
 
