@@ -128,7 +128,7 @@
 <h4 style="text-align:left">DISPUTE RESOLUTION</h4>
 <p>We do periodical assessments of our data processing and privacy practices, to make sure that we comply with this policy, to update the policy when needed, and to verify that the policy is displayed properly and accessible. If you have any concerns about the way we process your personal information, you are welcome to contact our privacy team at: privacy@Talentify.io, or write to us at:
 
-Talentify.ai
+ISTAR Skill Development Pvt Ltd
 63/2 18th Cross Malleswaram
 Bangalore, India 560055<p>
 
