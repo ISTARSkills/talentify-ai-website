@@ -35,13 +35,13 @@
        <div class="selectnew">
         <select class="selectpicker span3" >
     <option value="" selected disabled>Choose Plan</option>
-    <option value="">Silver at 50$</option>
-    <option value="">Gold at 100$</option>
+    <option value="">Silver (50$/user/month)</option>
+    <option value="">Gold (50$/user/month)</option>
     
     </select>  
     </div>      
       <br>
-     <label> By signing up, you accept our <a style="color:#eb384f" href="t_n_c.html"> Terms of Service </a> and <a style="color:#eb384f" href="privacypolicy.html"> Privacy Policy </a> </label>
+     <label> By signing up, you accept our <a style="color:#eb384f" href="t_n_c.jsp"> Terms of Service </a> and <a style="color:#eb384f" href="privacypolicy.jsp"> Privacy Policy </a> </label>
       <div class="mx-auto text-center">
         
         <input id="signup" type="submit" class="btn-pill btn-pill-primary btn-pill-lg" value="Sign Up" />
